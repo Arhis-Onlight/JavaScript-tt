@@ -2,6 +2,7 @@ git init
 git config --global user.name 'Fisrtname seconname'
 git config --global user.email 'Fisrtname seconname'
 git add filename.ext
+
 git status
 
 // To Remove
