@@ -19,3 +19,9 @@ git rm --cached *.*
 
 // Commit with the message
 git commit -m 'Your commit message'
+
+// Make new branch
+git branch branchname
+
+// To change branch to newbranch
+git checkout newbranch
