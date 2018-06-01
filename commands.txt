@@ -35,6 +35,12 @@ git remote
 // Add remote "origin" repository
 git remote add origin <url>
 
+// Delete remote repository
+git remote remove repository_name (for example origin)
+
+//To see some info about remote repository 
+git remote show remot_posit_name (for example: origin)
+
 // To push all to remove repository
 git push -u origin master 
    if it's not work then...
