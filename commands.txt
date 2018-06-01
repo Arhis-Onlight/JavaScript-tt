@@ -25,3 +25,18 @@ git branch branchname
 
 // To change branch to newbranch
 git checkout newbranch
+
+// Merge files from other branch to current
+git merge otherbranch
+
+// See the list of remote repositories
+git remote
+
+// Add remote "origin" repository
+git remote add origin <url>
+
+// To push all to remove repository
+git push -u origin master 
+   if it's not work then...
+git push -f origin master //it crached all commits on remote one (be careful!)
+
