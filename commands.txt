@@ -46,3 +46,6 @@ git push -u origin master
    if it's not work then...
 git push -f origin master //it crached all commits on remote one (be careful!)
 
+// then only
+git push
+
