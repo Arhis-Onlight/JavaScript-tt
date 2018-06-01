@@ -49,3 +49,6 @@ git push -f origin master //it crached all commits on remote one (be careful!)
 // then only
 git push
 
+// To clone 
+git clone <remove_repository>
+
