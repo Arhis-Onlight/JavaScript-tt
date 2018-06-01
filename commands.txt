@@ -17,3 +17,5 @@ git add .
 // To remove everything 
 git rm --cached *.*
 
+// Commit with the message
+git commit -m 'Your commit message'
