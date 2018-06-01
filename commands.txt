@@ -1,0 +1,18 @@
+git init
+git config --global user.name 'Fisrtname seconname'
+git config --global user.email 'Fisrtname seconname'
+git add filename.ext
+git status
+
+// To Remove
+git rm --cached filename.ext
+
+// Different ways to add files
+git add *.html
+
+// To add everything
+git add .
+
+// To remove everything 
+git rm --cached *.*
+
