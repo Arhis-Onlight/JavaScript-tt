@@ -52,3 +52,6 @@ git push
 // To clone 
 git clone <remove_repository>
 
+//To download all changes from remote repository to your PC (be careful it can replace all you have different to that on your local on)
+git pull origin master
+
